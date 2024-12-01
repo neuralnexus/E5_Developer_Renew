@@ -1,3 +1,7 @@
+[![Auto Api Task](https://github.com/neuralnexus/E5_Developer_Renew/actions/workflows/autoapi.yml/badge.svg)](https://github.com/neuralnexus/E5_Developer_Renew/actions/workflows/autoapi.yml)
+
+
+
 # **E5 Developer Renewer**
 
 ![CICD](https://github.com/KKtheGhost/E5_Developer_Renew/actions/workflows/autoapi.yml/badge.svg?branch=master)
